@@ -1,0 +1,1 @@
+node $HOME/miningleague/core/clients/nodejs/index.js --host nimiq.miningleague.xzy --port 8080 --key $HOME/miningleague/miningleague-cert.key --cert $HOME/miningleague/miningleague-cert.crt --wallet-seed=562c0ef73208a7fa7acdd3bb7b65b39e6fde726c24bb068c86a2af9b57db2821790710aadd5d6a6a1bcb6a96a8aac59e3f6a0e00e2342ec52695863dd6abef5800 --miner=4
